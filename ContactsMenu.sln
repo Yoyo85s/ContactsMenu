@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContactsMenu", "ContactsMenu\ContactsMenu.csproj", "{AA39C310-CF1E-4B04-A73B-B02D75B324C7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContactsMenu-Tests", "ContactsMenu-Tests\ContactsMenu-Tests.csproj", "{5BBD5251-FD80-47C7-843F-4CC5EEE3CFF7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AA39C310-CF1E-4B04-A73B-B02D75B324C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA39C310-CF1E-4B04-A73B-B02D75B324C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA39C310-CF1E-4B04-A73B-B02D75B324C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA39C310-CF1E-4B04-A73B-B02D75B324C7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5BBD5251-FD80-47C7-843F-4CC5EEE3CFF7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5BBD5251-FD80-47C7-843F-4CC5EEE3CFF7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5BBD5251-FD80-47C7-843F-4CC5EEE3CFF7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5BBD5251-FD80-47C7-843F-4CC5EEE3CFF7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {315A520A-4BC3-4BA9-99A0-D827CAED0044}
+	EndGlobalSection
+EndGlobal
